@@ -16,10 +16,13 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dip in t
 
 ## Conclusions
 Most important factors affecting the demand of bikes are:
-- Conclusion 2 
-- Conclusion 3 
-- Conclusion 4 
-The model can be further analyzed as a polynomial model to get better results from linear model. 
+Coefficient fromm the model above tells 5 most important Factors: 
+1. Yr/Month
+2. Season_Fall
+3. weathersit_Light Snow, Light Rain + Thunderstorm + Scattered clouds, Light Rain + Scattered clouds
+4. weathersit_Clear, Few clouds, Partly cloudy, Partly cloudy
+5. workingday
+The model can be further analyzed as a polynomial model to get better results than linear model. 
 
 ## Technologies Used
 - Jupyter Notebooks
