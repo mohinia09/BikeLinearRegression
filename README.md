@@ -8,41 +8,36 @@ Regression models building to study the variation in demand for shared bikes wit
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+A service in which bikes are made available for shared use to individuals on a short term basis for a price or free is known as a bike-sharing system. Many such systems allow people to borrow a bike from a mostly computer-controlled "dock" wherein the user enters the payment information, and the system unlocks it. This bike can then be returned to another dock belonging to the same system.
+A US bike-sharing provider BoomBikes has recently suffered considerable dip in their revenues due to the ongoing Corona pandemic. In order to accelerate its revenue after the lockdown, the company wants to understand the demand for shared bikes after the Covid quarantine ends. They want to understand the factors affecting the demand for these shared bikes in the American market. With the help of a service provider firm they have gathered a large dataset on daily bike demands across the American market based on some factors.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+Most important factors affecting the demand of bikes are:
+- Conclusion 2 
+- Conclusion 3 
+- Conclusion 4 
+The model can be further analyzed as a polynomial model to get better results from linear model. 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Jupyter Notebooks
+- sklearn for regression model
+- seaborn for plots
+- matplotlib
+- pandas
+- numpy
 
 ## Acknowledgements
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@mohinia09] - feel free to contact me!
 
 
 <!-- Optional -->
